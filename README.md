@@ -22,3 +22,5 @@ This structure was pretty much used in every other _Guanaco_ style dataset out t
 Dolly 15k is a good choice since it is _human generated_ and it reduces the risk on hallucinations. Also the other advantage of this dataset is that it is _available only in English_. Being mono-lingual can be beneficial when the model is small and quantized.
 
 ## Further procedures
+
+For now, there is no further study, action or procedure to be done on this particular project.
