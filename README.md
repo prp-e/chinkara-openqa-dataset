@@ -18,3 +18,5 @@ The dataset follows the following structure:
 This structure was pretty much used in every other _Guanaco_ style dataset out there and seemed to be the best structure for an LLM which is going to be trained with QLORA method.
 
 ## Why Dolly?
+
+Dolly 15k is a good choice since it is _human generated_ and it reduces the risk on hallucinations. Also the other advantage of this dataset is that it is _available only in English_. Being mono-lingual can be beneficial when the model is small and quantized.
