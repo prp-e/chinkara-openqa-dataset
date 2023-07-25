@@ -5,3 +5,5 @@ This is a dataset based on [Dolly 15k](https://huggingface.co/datasets/databrick
 ## Goal
 
 The goal of creating this dataset was to train our model [Chinkara](https://github.com/prp-e/chinkara) on it and test the outcome compared to the old Guanaco one.
+
+## Structure
