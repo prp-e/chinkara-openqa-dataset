@@ -7,3 +7,14 @@ This is a dataset based on [Dolly 15k](https://huggingface.co/datasets/databrick
 The goal of creating this dataset was to train our model [Chinkara](https://github.com/prp-e/chinkara) on it and test the outcome compared to the old Guanaco one.
 
 ## Structure
+
+The dataset follows the following structure: 
+
+```
+### Human: INSTRUCTION
+### Assistan: RESPONSE
+``` 
+
+This structure was pretty much used in every other _Guanaco_ style dataset out there and seemed to be the best structure for an LLM which is going to be trained with QLORA method.
+
+## Why Dolly?
